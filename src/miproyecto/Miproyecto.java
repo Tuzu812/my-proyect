@@ -8,6 +8,7 @@ public class Miproyecto {
 		System.out.println("Hola Mundo");
 		System.out.println("Hola");
 		System.out.println("Hola");
+		System.out.println("clonacion")
 	}
 
 }
